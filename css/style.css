@@ -1,0 +1,25 @@
+body {
+    background-color: #b6d8d8;
+}
+
+td {
+    color:beige;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3,h2,h1 {
+    color:beige;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+hr {
+    border-style:none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    width: 100px;
+    
+}
